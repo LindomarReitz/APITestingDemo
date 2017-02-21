@@ -18,7 +18,7 @@ namespace APITestingDemo
         }
 
         [TestMethod]
-        public void makeASucessfulRequest()
+        public void makeASuccessfulRequest()
         {
             var request = new RestRequest("/info.0.json", Method.GET);
 
