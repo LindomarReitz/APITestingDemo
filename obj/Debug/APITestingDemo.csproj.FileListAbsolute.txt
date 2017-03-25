@@ -32,3 +32,24 @@ C:\Users\lindomar_reitz\Documents\Visual Studio 2015\Projects\Solution1\APITesti
 C:\Users\lindomar_reitz\Documents\Visual Studio 2015\Projects\Solution1\APITestingDemo\bin\Debug\ReadOnlyCollectionsInterfaces.xml
 C:\Users\lindomar_reitz\Documents\Visual Studio 2015\Projects\Solution1\APITestingDemo\bin\Debug\scotch.xml
 C:\Users\lindomar_reitz\Documents\Visual Studio 2015\Projects\Solution1\APITestingDemo\bin\Debug\System.Json.xml
+C:\Users\Lindomar Reitz\Documents\Visual Studio 2015\Projects\APITestingDemo\bin\Debug\APITestingDemo.dll.config
+C:\Users\Lindomar Reitz\Documents\Visual Studio 2015\Projects\APITestingDemo\bin\Debug\APITestingDemo.dll
+C:\Users\Lindomar Reitz\Documents\Visual Studio 2015\Projects\APITestingDemo\bin\Debug\APITestingDemo.pdb
+C:\Users\Lindomar Reitz\Documents\Visual Studio 2015\Projects\APITestingDemo\bin\Debug\Fleece.FSharpData.pdb
+C:\Users\Lindomar Reitz\Documents\Visual Studio 2015\Projects\APITestingDemo\bin\Debug\Fleece.FSharpData.xml
+C:\Users\Lindomar Reitz\Documents\Visual Studio 2015\Projects\APITestingDemo\bin\Debug\FsControl.Core.xml
+C:\Users\Lindomar Reitz\Documents\Visual Studio 2015\Projects\APITestingDemo\bin\Debug\FSharp.Core.xml
+C:\Users\Lindomar Reitz\Documents\Visual Studio 2015\Projects\APITestingDemo\bin\Debug\FSharp.Data.pdb
+C:\Users\Lindomar Reitz\Documents\Visual Studio 2015\Projects\APITestingDemo\bin\Debug\FSharp.Data.xml
+C:\Users\Lindomar Reitz\Documents\Visual Studio 2015\Projects\APITestingDemo\bin\Debug\FSharpPlus.xml
+C:\Users\Lindomar Reitz\Documents\Visual Studio 2015\Projects\APITestingDemo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lindomar Reitz\Documents\Visual Studio 2015\Projects\APITestingDemo\bin\Debug\ReadOnlyCollectionsExtensions.pdb
+C:\Users\Lindomar Reitz\Documents\Visual Studio 2015\Projects\APITestingDemo\bin\Debug\ReadOnlyCollectionsExtensions.xml
+C:\Users\Lindomar Reitz\Documents\Visual Studio 2015\Projects\APITestingDemo\bin\Debug\ReadOnlyCollectionsInterfaces.pdb
+C:\Users\Lindomar Reitz\Documents\Visual Studio 2015\Projects\APITestingDemo\bin\Debug\ReadOnlyCollectionsInterfaces.xml
+C:\Users\Lindomar Reitz\Documents\Visual Studio 2015\Projects\APITestingDemo\bin\Debug\RestSharp.xml
+C:\Users\Lindomar Reitz\Documents\Visual Studio 2015\Projects\APITestingDemo\bin\Debug\scotch.xml
+C:\Users\Lindomar Reitz\Documents\Visual Studio 2015\Projects\APITestingDemo\bin\Debug\System.Json.xml
+C:\Users\Lindomar Reitz\Documents\Visual Studio 2015\Projects\APITestingDemo\obj\Debug\APITestingDemo.csprojResolveAssemblyReference.cache
+C:\Users\Lindomar Reitz\Documents\Visual Studio 2015\Projects\APITestingDemo\obj\Debug\APITestingDemo.dll
+C:\Users\Lindomar Reitz\Documents\Visual Studio 2015\Projects\APITestingDemo\obj\Debug\APITestingDemo.pdb
