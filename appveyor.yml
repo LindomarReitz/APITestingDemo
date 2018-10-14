@@ -1,3 +1,5 @@
 dotnet_csproj:
   patch: true
   file: '**/**/*.csproj'
+build:
+  verbosity: minimal
