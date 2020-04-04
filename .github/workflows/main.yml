@@ -1,0 +1,11 @@
+name: Main workflow
+on: push
+jobs:
+  build:
+    name: Dotnet action
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+    - run: docker-compose up -d
+    - run: docker-compose exec -T dotnet dotnet build
+    - run: docker-compose exec -T dotnet dotnet test --no-build
